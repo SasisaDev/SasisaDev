@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SasisaDev
-- 👀 I’m interested in foxes
-- 🌱 I’m currently learning making foxes
-- 💞️ I’m looking to collaborate on foxes
-- 📫 How to reach me: Idk, i have YT and Discord account
+- 👀 I’m interested in everything interesting
+- 🌱 I’m currently learning JS(TS, React, Electron, Express) and C/C++
+- 💞️ I’m looking to collaborate on anything i see cool
+- 📫 How to reach me: SasisaDev0@gmail.com
