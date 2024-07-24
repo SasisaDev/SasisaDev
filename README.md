@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SasisaDev
 - 👀 I’m interested in everything interesting
 - 🌱 I’m currently learning JS(TS, React, Electron, Express) and C/C++
-- 💞️ I’m looking to collaborate on anything i see cool
+- 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me: SasisaDev0@gmail.com
